@@ -1,15 +1,9 @@
-<!-- Matrix Code Rain Effect - Place this at the top for visual impact -->
 <!-- Custom Matrix Style Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=KUNDAN%20SAI%20GOPAL&fontSize=50&fontAlignY=35&animation=twinkling&desc=AI%20Engineer%20|%20Workflow%20Architect%20|%20Full-Stack%20Developer&descAlignY=60" width="100%"/>
 </div>
-<!-- Matrix Animation with Name -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Matrix+Code+NFI&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Initializing+AI+Systems...;KUNDAN+Neural+Network+Online...;Activating+Quantum+Protocols..." alt="Typing SVG" />
-  </a>
-</div>
-<!-- Contribution Snake with Matrix Effect -->
+
+<!-- Contribution Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -17,269 +11,194 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<!-- ASCII Art Name -->
+
 <div align="center">
-<pre>
-<code>
-██╗  ██╗██╗   ██╗███╗   ██╗██████╗  █████╗ ███╗   ██╗
-██║ ██╔╝██║   ██║████╗  ██║██╔══██╗██╔══██╗████╗  ██║
-█████╔╝ ██║   ██║██╔██╗ ██║██║  ██║███████║██╔██╗ ██║
-██╔═██╗ ██║   ██║██║╚██╗██║██║  ██║██╔══██║██║╚██╗██║
-██║  ██╗╚██████╔╝██║ ╚████║██████╔╝██║  ██║██║ ╚████║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
-</code>
-</pre>
-</div>
-<!-- Digital Circuit Line -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.png" alt="circuit" height="40">
-</div>
-<div align="center">
-  <img width="100%" height="50" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-  
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="50" /> 
-    Kundan Sai Gopal N 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" />
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/robot_1f916.png" width="40" alt="Robot"/>
+    Kundan Sai Gopal N
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/laptop_1f4bb.png" width="40" alt="Laptop"/>
   </h1>
 
-  <!-- Typing SVG with custom styling -->
+  <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B71F3&center=true&vCenter=true&width=435&lines=AI+Workflow+Architect+%F0%9F%A4%96;LLM+Systems+Developer+%F0%9F%94%A7;Full-Stack+AI+Engineer+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B71F3&center=true&vCenter=true&random=false&width=500&lines=AI+Workflow+Architect+🤖;LLM+Systems+Developer+⚡;Full-Stack+AI+Engineer+🚀;Cloud+%26+DevOps+Enthusiast+☁️" alt="Typing SVG" />
   </a>
-</div>
 
-<!-- Animated Terminal Effect -->
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class AIEngineer:
-    def __init__(self):
-        self.name = "Kundan Sai Gopal N"
-        self.role = "AI Workflow Architect"
-        self.language_spoken = ["en_US", "te_IN", "hi_IN"]
-        self.current_work = {
-            "company": "Blockchain Laboratories",
-            "focus": "Agentic AI Systems",
-            "tech": ["LangChain", "LangGraph", "LLMs"]
-        }
-        
-    def daily_routine(self):
-        return [
-            "☕ Fuel up with coffee",
-            "💻 Build intelligent systems",
-            "🤖 Train AI models",
-            "🔄 Optimize workflows",
-            "📚 Learn new AI concepts"
-        ]
-
-me = AIEngineer()
-print(f"🚀 Welcome to {me.name}'s AI Lab!")
-```
-
-<!-- Animated Skills Progress Bars -->
-<details>
-<summary>🎯 Skills Progress</summary>
-<div align="center">
-
-```text
-AI/ML Development    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀ 90%
-LLM Systems          ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 80%
-Cloud Computing      ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀ 70%
-Blockchain           ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀ 60%
-DevOps              ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀ 70%
-```
-
-</div>
-</details>
-
-## 🌟 Featured AI Projects
-
-<details>
-<summary>🤖 Agentic Workflow System</summary>
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#3B71F3', 'textColor': '#fff' }}}%%
-graph TD
-    A[User Input] -->|Natural Language| B[LangChain Router]
-    B -->|Task Classification| C[Planning Module]
-    B -->|Direct Execution| D[Action Module]
-    
-    C -->|Generate Plan| E[Task Scheduler]
-    E -->|Prioritize| F[Execution Queue]
-    
-    D -->|Process| G[Action Handler]
-    F -->|Execute| G
-    
-    G -->|Validate| H[Blockchain Verification]
-    H -->|Store| I[Immutable Record]
-    H -->|Feedback| J[Learning Module]
-    
-    J -->|Update| B
-    
-    style A fill:#3B71F3,stroke:#333,stroke-width:2px
-    style B fill:#2952B3,stroke:#333,stroke-width:2px
-    style C fill:#1E3D8F,stroke:#333,stroke-width:2px
-    style D fill:#2952B3,stroke:#333,stroke-width:2px
-    style E fill:#1E3D8F,stroke:#333,stroke-width:2px
-    style F fill:#2952B3,stroke:#333,stroke-width:2px
-    style G fill:#1E3D8F,stroke:#333,stroke-width:2px
-    style H fill:#2952B3,stroke:#333,stroke-width:2px
-    style I fill:#1E3D8F,stroke:#333,stroke-width:2px
-    style J fill:#2952B3,stroke:#333,stroke-width:2px
-```
-
-### Key Features
-- 🎯 Autonomous task planning and execution
-- 🔗 Blockchain-verified workflow states
-- 📊 Real-time performance monitoring
-- 🔄 Self-improving feedback loop
-
-</details>
-
-<details>
-<summary>📊 Intelligent Document Processor</summary>
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6E45E2', 'textColor': '#fff' }}}%%
-graph LR
-    A[Document Input] -->|OCR Engine| B[Text Extraction]
-    B -->|NLP Pipeline| C[Content Analysis]
-    C -->|Classification| D[Document Type]
-    C -->|Entity Recognition| E[Key Info]
-    C -->|Sentiment Analysis| F[Context]
-    
-    D & E & F -->|Aggregation| G[Knowledge Base]
-    G -->|API| H[MERN Stack Interface]
-    H -->|Dashboard| I[Visualization]
-    
-    style A fill:#6E45E2,stroke:#333,stroke-width:2px
-    style B fill:#5B3AC4,stroke:#333,stroke-width:2px
-    style C fill:#472FA6,stroke:#333,stroke-width:2px
-    style D fill:#6E45E2,stroke:#333,stroke-width:2px
-    style E fill:#5B3AC4,stroke:#333,stroke-width:2px
-    style F fill:#472FA6,stroke:#333,stroke-width:2px
-    style G fill:#6E45E2,stroke:#333,stroke-width:2px
-    style H fill:#5B3AC4,stroke:#333,stroke-width:2px
-    style I fill:#472FA6,stroke:#333,stroke-width:2px
-```
-
-### Achievements
-- 📈 92% accuracy in document classification
-- ⚡ 85% reduction in processing time
-- 🎯 Real-time data extraction and analysis
-
-</details>
-
-<details>
-<summary>📚 Student Analytics Platform</summary>
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#FF6B6B', 'textColor': '#fff' }}}%%
-flowchart TD
-    A[Student Data] -->|Collection| B[Data Lake]
-    B -->|Processing| C[Analytics Engine]
-    
-    C -->|Analysis| D[Performance Metrics]
-    C -->|Prediction| E[Future Trends]
-    C -->|Patterns| F[Behavior Analysis]
-    
-    D & E & F -->|Integration| G[Insights Dashboard]
-    G -->|Visualization| H[Interactive Reports]
-    G -->|Alerts| I[Early Warning System]
-    
-    style A fill:#FF6B6B,stroke:#333,stroke-width:2px
-    style B fill:#E65C5C,stroke:#333,stroke-width:2px
-    style C fill:#CC4E4E,stroke:#333,stroke-width:2px
-    style D fill:#FF6B6B,stroke:#333,stroke-width:2px
-    style E fill:#E65C5C,stroke:#333,stroke-width:2px
-    style F fill:#CC4E4E,stroke:#333,stroke-width:2px
-    style G fill:#FF6B6B,stroke:#333,stroke-width:2px
-    style H fill:#E65C5C,stroke:#333,stroke-width:2px
-    style I fill:#CC4E4E,stroke:#333,stroke-width:2px
-```
-
-### Impact
-- 📊 75% reduction in administrative tasks
-- 🎯 90% accuracy in performance prediction
-- 📈 Improved student engagement by 60%
-
-</details>
-
-## 💻 Tech Mastery
-
-<!-- Animated Tech Stack Icons -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,react,nodejs,mongodb,aws,docker,kubernetes&perline=4&theme=dark" />
   
-  <!-- Custom AI Tool Icons -->
+  <!-- Social Badges -->
   <p>
-    <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge&logo=graph&logoColor=white" />
-    <img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <a href="https://www.linkedin.com/in/kundan-sai-gopal-nanubala-a05382237/">
+      <img src="https://img.shields.io/badge/-kundan--sai--gopal--nanubala-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:kundannanubala@gmail.com">
+      <img src="https://img.shields.io/badge/-kundannanubala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/kundannanubala">
+      <img src="https://img.shields.io/badge/-kundannanubala-grey?style=flat-square&logo=github"/>
+    </a>
   </p>
 </div>
 
-<!-- Animated Stats -->
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/thuanpham2311/thuanpham2311/master/assets/programming.gif"/>
+
+- 🎓 **Education**: B.Tech in Information Technology (8.36/10) from VNR Vignana Jyothi Institute of Technology
+- 🌟 **Current Role**: AI Workflow Developer at Blockchain Laboratories
+- 💼 **Experience**: Full-Stack Developer with expertise in MERN Stack & AI Technologies
+- 🚀 **Focus**: Building AI-driven SaaS solutions and Web3 innovations
+- 🎯 **Expertise**: AI/ML, Full-Stack Development, System Optimization
+- 📚 **Key Subjects**: OOP, Advanced Java, Python, Data Science, Web Dev, Big Data Analysis
+
+## 🛠️ Technical Arsenal
+
+### Languages & Core Technologies
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+### AI & ML Tools
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge&logo=graph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=robot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hubspot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
+</p>
+
+## 💼 Professional Experience
+
+### 🔹 Blockchain Laboratories (July 2024 - Present)
+<p>
+  <img src="https://img.shields.io/badge/Role-Venture_Intern-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Remote-green?style=flat-square"/>
+</p>
+
+- Explored and compared various LLMs for AI-driven use cases
+- Developed MVPs for AI agents utilizing full-stack development
+- Built agentic workflows using LangChain and CrewAI
+- Optimized process efficiency for diverse applications
+
+### 🔹 Hyderabad Forex Private Limited (April 2024 - August 2024)
+<p>
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Hyderabad-green?style=flat-square"/>
+</p>
+
+- Developed dynamic landing page with MERN stack
+- Implemented OCR for processing government documents
+- Created admin panel with real-time communication features
+- Enhanced data processing efficiency and reduced manual entry
+
+### 🔹 Nine Inspirex Private Limited (October 2023 - August 2024)
+<p>
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Hyderabad-green?style=flat-square"/>
+</p>
+
+- Built ERP system handling 2000+ students
+- Implemented JWT authentication and role-based views
+- Generated 4800+ error-free receipts
+- Enhanced data-driven decision-making processes
+
+### 🔹 Synergy Solution UK (June 2024 - August 2024)
+<p>
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Remote-green?style=flat-square"/>
+</p>
+
+- Developed GranHub blog site using WordPress
+- Implemented interactive elements and games
+- Enhanced user engagement through community features
+- Created personalized user experiences
+
+## 🎯 Notable Projects
+
+### 🤖 Drug-Drug Interaction Predictor
+<p>
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neural_Networks-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+- Developed AI-based ensemble deep neural network
+- Achieved 93.80% accuracy in predicting interactions
+- Supported pharmacovigilance and medical decisions
+- Enhanced drug development processes
+
+### 📊 Classroom Attendance System
+<p>
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Face_Recognition-FF0000?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+- Implemented real-time face detection using Haar Cascade
+- Integrated MTCNN and InceptionResnetV1
+- Selected for college-wide implementation
+- Enhanced attendance tracking efficiency
+
+## 🎓 Certifications & Achievements
+<p>
+  <img src="https://img.shields.io/badge/Smart_Interviews-Certified_Smart_Coder_(DSA)-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NPTEL-IoT_Certification-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Dell-Hackathon_Runner_Up-orange?style=flat-square"/>
+</p>
+
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kundannanubala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundannanubala&theme=tokyonight&hide_border=true&background=0D1117" width="400"/>
 </div>
 
-<!-- Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kundannanubala&theme=react-dark&hide_border=true"/>
 </a>
 
-## 🔮 Current AI Research
-
-<details>
-<summary>Research Areas</summary>
-
-```python
-research_interests = {
-    "LLM Systems": [
-        "Few-shot learning",
-        "Prompt engineering",
-        "Model distillation"
-    ],
-    "Multi-Agent Systems": [
-        "Swarm intelligence",
-        "Collaborative learning",
-        "Emergent behaviors"
-    ],
-    "AI-Blockchain": [
-        "Verifiable AI",
-        "Decentralized learning",
-        "Smart contracts"
-    ]
-}
-```
-
-</details>
-
-<!-- Animated Connect Section -->
-## 🤝 Let's Innovate Together
+## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/kundan-sai-gopal-nanubala">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kundan-sai-gopal-nanubala-a05382237/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:kundannanubala@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=moleculer&logoColor=white" />
+  <a href="https://github.com/kundannanubala">
+    <img src="https://img.shields.io/badge/GitHub-Follow-green?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
 <!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
-<!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=3B71F3" />
+  <img src="https://komarev.com/ghpvc/?username=kundannanubala&style=for-the-badge&color=3B71F3"/>
 </div>
