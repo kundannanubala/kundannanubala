@@ -1,8 +1,39 @@
 <!-- Matrix Code Rain Effect - Place this at the top for visual impact -->
+<!-- Custom Matrix Style Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating contribution graph">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=KUNDAN%20SAI%20GOPAL&fontSize=50&fontAlignY=35&animation=twinkling&desc=AI%20Engineer%20|%20Workflow%20Architect%20|%20Full-Stack%20Developer&descAlignY=60" width="100%"/>
 </div>
-
+<!-- Matrix Animation with Name -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Matrix+Code+NFI&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Initializing+AI+Systems...;KUNDAN+Neural+Network+Online...;Activating+Quantum+Protocols..." alt="Typing SVG" />
+  </a>
+</div>
+<!-- Contribution Snake with Matrix Effect -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+<!-- ASCII Art Name -->
+<div align="center">
+<pre>
+<code>
+██╗  ██╗██╗   ██╗███╗   ██╗██████╗  █████╗ ███╗   ██╗
+██║ ██╔╝██║   ██║████╗  ██║██╔══██╗██╔══██╗████╗  ██║
+█████╔╝ ██║   ██║██╔██╗ ██║██║  ██║███████║██╔██╗ ██║
+██╔═██╗ ██║   ██║██║╚██╗██║██║  ██║██╔══██║██║╚██╗██║
+██║  ██╗╚██████╔╝██║ ╚████║██████╔╝██║  ██║██║ ╚████║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+</code>
+</pre>
+</div>
+<!-- Digital Circuit Line -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.png" alt="circuit" height="40">
+</div>
 <div align="center">
   <img width="100%" height="50" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
   
