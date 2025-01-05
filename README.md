@@ -94,7 +94,7 @@
 
 ## 💼 Professional Experience
 
-### 🔹 Blockchain Laboratories (July 2024 - Present)
+### 🔹 Blockchain Laboratories (July 2024 - Dec 2024)
 <p>
   <img src="https://img.shields.io/badge/Role-Venture_Intern-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Location-Remote-green?style=flat-square"/>
